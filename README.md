@@ -1,2 +1,4 @@
 # WebDev-Project
-This is a project site as I learn to build websites.
+<body>
+  <strong>This is a <em>project</em> site as I learn to build websites.</strong>
+ </body>
