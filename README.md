@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 
 <html>
-<title>NOVEM-A society by women, for women</title>
 <head>
+        <title>NOVEM-A society by women, for women</title>
+</head>
 
     <body>
-    <em>Test!</em>
+        <h3><em>Test!</em></h3>
     
     
     </body>
